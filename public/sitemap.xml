@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.celtoys.co.uk/</loc>
+    <loc>http://www.celtoys.co.uk/public/</loc>
     <lastmod>2016-02-01T23:56:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.celtoys.co.uk/post/first/</loc>
+    <loc>http://www.celtoys.co.uk/public/post/first/</loc>
     <lastmod>2016-02-01T23:56:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.celtoys.co.uk/about/</loc>
+    <loc>http://www.celtoys.co.uk/public/about/</loc>
     <lastmod>2016-02-01T23:53:59+00:00</lastmod>
   </url>
   
